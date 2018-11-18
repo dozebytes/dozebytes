@@ -11,7 +11,7 @@ public class WebConfig implements WebMvcConfigurer {
 
     /**
      * Configuracao necessaria para que a aplicacao possa ser acessada via servidor externo
-     * {@link }
+     * @see <a href="http://andreybleme.com/2016-11-27/cors-spring/"> http://andreybleme.com/2016-11-27/cors-spring/</a>
      * @param registry
      */
     @Override
